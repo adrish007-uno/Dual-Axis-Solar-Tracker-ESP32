@@ -23,10 +23,26 @@
 
 This project presents a **Dual-Axis Solar Tracker** built using an **ESP32 microcontroller**, **four LDR (Light Dependent Resistor) sensors**, and **two 28BYJ-48 stepper motors**.
 
-The system continuously detects the direction of maximum sunlight and automatically rotates the solar panel along both the **horizontal (azimuth)** and **vertical (elevation)** axes. Compared to a fixed solar panel, this approach improves solar energy collection by keeping the panel aligned with the strongest light source throughout the day.
+The system continuously detects the direction of maximum sunlight and automatically rotates the solar panel along both the **horizontal (azimuth)** and **vertical (elevation)** axes, keeping the panel aligned toward the strongest detected light source.
 
----
+## 👥 Team & My Contribution
 
+This project was developed as a team project at **Cooch Behar Government Engineering College**.
+
+### 👨‍💼 My Role — Team Leader
+
+- Led and coordinated the project team throughout the development process.
+- Managed overall project planning, task allocation, coordination, and progress tracking.
+- Prepared and organized the complete project report and technical documentation.
+- Designed and prepared the project presentation for the final demonstration.
+- Coordinated the overall project integration, review, and final demonstration.
+ 
+### 📌 Repository Note
+
+This repository is a fork of the original team project repository:
+
+**Original Repository:**  
+https://github.com/KrishanuBiswas/Dual-Axis-Solar-Tracker-ESP32
 # ✨ Features
 
 - 🌞 Automatic sunlight tracking
